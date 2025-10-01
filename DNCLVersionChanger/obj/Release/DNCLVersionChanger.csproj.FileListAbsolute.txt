@@ -1,0 +1,8 @@
+D:\Project\C#\DNCLVersionChanger\DNCLVersionChanger\bin\Release\DNCLVersionChanger.exe
+D:\Project\C#\DNCLVersionChanger\DNCLVersionChanger\bin\Release\DNCLVersionChanger.pdb
+D:\Project\C#\DNCLVersionChanger\DNCLVersionChanger\obj\Release\DNCLVersionChanger.csproj.AssemblyReference.cache
+D:\Project\C#\DNCLVersionChanger\DNCLVersionChanger\obj\Release\DNCLVersionChanger.csproj.CoreCompileInputs.cache
+D:\Project\C#\DNCLVersionChanger\DNCLVersionChanger\obj\Release\DNCLVersionChanger.exe
+D:\Project\C#\DNCLVersionChanger\DNCLVersionChanger\obj\Release\DNCLVersionChanger.pdb
+D:\Project\C#\DNCLVersionChanger\DNCLVersionChanger\bin\Release\zlib.net.dll
+D:\Project\C#\DNCLVersionChanger\DNCLVersionChanger\obj\Release\DNCLVersionChanger.csproj.CopyComplete
